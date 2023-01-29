@@ -12,22 +12,4 @@ class AnswerDto {
         this.body = body
         this.channel = channel
     }
-    /*fun getId(): Long? {
-        return id
-    }
-    fun getBody():String{
-        return body
-    }
-    fun getChannel() : String{
-        return channel
-    }
-    fun setId(id : Long?){
-        this.id=id
-    }
-    fun setBody(body :String){
-        this.body=body
-    }
-    fun setChannel(channel:String){
-        this.channel=channel
-    }*/
 }
